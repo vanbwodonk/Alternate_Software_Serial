@@ -12,8 +12,8 @@
 // Arduino Mega      46        48       44, 45
 // Wiring-S           5         6          4
 // Sanguino          13        14         12
-// Gelatino16/32	 13		   14		  12
-// Gelatino128		  3			7		 4, 5
+// Gelatino16/32     13        14         12
+// Gelatino128        3         7        4, 5
 
 AltSoftSerial altSerial;
 
